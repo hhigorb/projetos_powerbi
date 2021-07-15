@@ -17,4 +17,4 @@ Uma pequena amostra de alguns projetos em Power BI realizados por mim.
 
 ![Screenshot](vendas2.png)
 
-![Screenshot](locadora.png)
+![Screenshot](PNG/locadora.png)
