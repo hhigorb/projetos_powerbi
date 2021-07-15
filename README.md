@@ -16,3 +16,5 @@ Uma pequena amostra de alguns projetos em Power BI realizados por mim.
 ![Screenshot](plano_saude.png)
 
 ![Screenshot](vendas2.png)
+
+![Screenshot](locadora.png)
