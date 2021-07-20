@@ -10,6 +10,9 @@ Uma pequena amostra de alguns projetos em Power BI realizados por mim.
 
 [Relatório Controle de Vendas](https://app.powerbi.com/view?r=eyJrIjoiYTQ2YzNiYTYtZDViZC00NzQwLTgxM2YtY2E2ZWVhOWYwMzNmIiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9)
 
+[Relatório Planos de Saúde](https://app.powerbi.com/view?r=eyJrIjoiNjRmY2ZjOTAtNGQ0MC00MjVjLTkzNmUtNDVhOGIwZDRjNWRiIiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9)
+
+[Relatório Vendas](https://app.powerbi.com/view?r=eyJrIjoiN2IyODljMDctOTM4ZC00M2Q3LWFmYzMtMjk4MzA2OWQ0OTI0IiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9)
 
 ![Screenshot](PNG/vendas.png)
 
