@@ -8,6 +8,8 @@ Uma pequena amostra de alguns projetos em Power BI realizados por mim.
 
 [Relatório Locação](https://app.powerbi.com/view?r=eyJrIjoiZjQxMzRmOGUtODg4YS00MTcxLThkNTQtYjhlOTY1ZWI0NWMyIiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9)
 
+[Relatório Controle de Vendas](https://app.powerbi.com/view?r=eyJrIjoiYTQ2YzNiYTYtZDViZC00NzQwLTgxM2YtY2E2ZWVhOWYwMzNmIiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9)
+
 
 ![Screenshot](PNG/vendas.png)
 
