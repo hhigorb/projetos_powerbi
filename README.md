@@ -14,6 +14,8 @@ Uma amostra de alguns projetos em Power BI realizados por mim.
 
 [Relatório Vendas](https://app.powerbi.com/view?r=eyJrIjoiN2IyODljMDctOTM4ZC00M2Q3LWFmYzMtMjk4MzA2OWQ0OTI0IiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9)
 
+![Screenshot](PNG/operacoes.png)
+
 ![Screenshot](PNG/vendas.png)
 
 ![Screenshot](PNG/rh.png)
