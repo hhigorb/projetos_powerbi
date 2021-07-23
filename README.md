@@ -4,7 +4,7 @@ Uma amostra de alguns projetos em Power BI realizados por mim.
 
 # Links
 
-[Relatório Chamados](https://app.powerbi.com/view?r=eyJrIjoiN2E4MzE1MzYtYzcwZC00OTkwLTlhNzktZjU5MzlmMzQ2ZTliIiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9&pageName=ReportSectionef3591e625ba497427bc)
+[Relatório Chamados](https://app.powerbi.com/view?r=eyJrIjoiNWUzYWNkOTEtYzY5OS00NzYxLTlhMDYtMjE2ZWE4Njc0MzQwIiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9&pageName=ReportSectionef3591e625ba497427bc)
 
 [Relatório RH](https://app.powerbi.com/view?r=eyJrIjoiODU4OWZkYzUtNWUwYy00ZGE4LTkzNmUtNmYwODNlMmUyYTU0IiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9&pageName=ReportSection)
 
