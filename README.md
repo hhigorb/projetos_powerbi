@@ -6,6 +6,8 @@ Uma amostra de alguns projetos em Power BI realizados por mim.
 
 [Relatório Chamados](https://app.powerbi.com/view?r=eyJrIjoiNWUzYWNkOTEtYzY5OS00NzYxLTlhMDYtMjE2ZWE4Njc0MzQwIiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9&pageName=ReportSectionef3591e625ba497427bc)
 
+[Relatório Mapas](https://app.powerbi.com/view?r=eyJrIjoiMzMxZmYyMzktMDAzNi00YjQ4LTgyMDctNjgyM2U5ZDg2NDAxIiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9&pageName=ReportSection)
+
 [Relatório RH](https://app.powerbi.com/view?r=eyJrIjoiODU4OWZkYzUtNWUwYy00ZGE4LTkzNmUtNmYwODNlMmUyYTU0IiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9&pageName=ReportSection)
 
 [Relatório Locação](https://app.powerbi.com/view?r=eyJrIjoiZjQxMzRmOGUtODg4YS00MTcxLThkNTQtYjhlOTY1ZWI0NWMyIiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9)
