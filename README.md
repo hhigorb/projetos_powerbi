@@ -6,6 +6,8 @@ Uma amostra de alguns projetos em Power BI realizados por mim.
 
 [Relatório Chamados](https://app.powerbi.com/view?r=eyJrIjoiNWUzYWNkOTEtYzY5OS00NzYxLTlhMDYtMjE2ZWE4Njc0MzQwIiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9&pageName=ReportSectionef3591e625ba497427bc)
 
+[Relatório Netflix](https://app.powerbi.com/view?r=eyJrIjoiMmE1MDdiNzgtMjlhNS00OGQ4LWE0ZWItNTMyZTE1NDY3M2IxIiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9&pageName=ReportSectione4da8195773252b15558)
+
 [Relatório NPS](https://app.powerbi.com/view?r=eyJrIjoiMjAzZmYyYzAtZmFkOC00NGE1LWIxZjgtM2U4NWM0NDU4YWU4IiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9&pageName=ReportSection)
 
 [Relatório Mapas](https://app.powerbi.com/view?r=eyJrIjoiMzMxZmYyMzktMDAzNi00YjQ4LTgyMDctNjgyM2U5ZDg2NDAxIiwidCI6IjIxNDFmMGI3LTZjOTAtNGM2NC1hNDAyLTlhZTkyMDlhZDhhMSJ9&pageName=ReportSection)
